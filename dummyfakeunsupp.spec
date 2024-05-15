@@ -1,5 +1,5 @@
 Name:		dummyfakeunsupp
-
+%define _empty_manifest_terminate_build 0
 Version:	0
 Release:	1
 Summary:	Fake build test
