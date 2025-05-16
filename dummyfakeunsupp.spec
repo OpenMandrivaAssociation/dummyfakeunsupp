@@ -1,7 +1,7 @@
 Name:		dummyfakeunsupp
 %define _empty_manifest_terminate_build 0
 Version:	0
-Release:	3
+Release:	4
 Summary:	Fake build test
 Group:		System/Configuration/Packaging
 License:	Public Domain
